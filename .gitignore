@@ -1,0 +1,8 @@
+# Exclude all dot files except .gitignore
+.*
+!.gitignore
+
+Debug/
+Release/
+STM8S003/
+settings/
