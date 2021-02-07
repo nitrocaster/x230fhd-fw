@@ -1,0 +1,131 @@
+AFR0:Alternate Active
+AFR1:Default
+AFR2:Default
+AFR3:Default
+AFR4:Default
+AFR5:Default
+AFR6:Default
+AFR7:Default
+CKAWUSEL:Low Speed Internal
+EXTCLK:External Oscillator
+HSECNT0:0
+HSECNT1:0
+HSECNT2:0
+HSECNT3:0
+HSECNT4:0
+HSECNT5:0
+HSECNT6:0
+HSECNT7:0
+HSITRIM:3-bit trimming
+I2C:Frozen when stopped
+IWDG_HW:Software
+LSI_EN:Disabled
+PRSC:16MHz to 128kHz
+ROP:Read-out protection disabled
+Timer1:Frozen when stopped
+Timer2:Frozen when stopped
+Timer4:Frozen when stopped
+UBC:Write protection disabled
+WWDG_HALT:No Reset
+WWDG_HW:Software
+
+
+
+
+#######################################################################################
+#
+# List of available option byte settings:
+# =======================================
+#
+# 
+# AFR0:Default
+# AFR0:Alternate Active
+# 
+# AFR1:Default
+# AFR1:Alternate Active
+# 
+# AFR2:Default
+# AFR2:Alternate Active
+# 
+# AFR3:Default
+# AFR3:Alternate Active
+# 
+# AFR4:Default
+# AFR4:Alternate Active
+# 
+# AFR5:Default
+# AFR5:Alternate Active
+# 
+# AFR6:Default
+# AFR6:Alternate Active
+# 
+# AFR7:Default
+# AFR7:Alternate Active
+# 
+# CKAWUSEL:Low Speed Internal
+# CKAWUSEL:High Speed External
+# 
+# EXTCLK:External Oscillator
+# EXTCLK:External Direct Drive
+# 
+# HSECNT0:0
+# HSECNT0:1
+# 
+# HSECNT1:0
+# HSECNT1:1
+# 
+# HSECNT2:0
+# HSECNT2:1
+# 
+# HSECNT3:0
+# HSECNT3:1
+# 
+# HSECNT4:0
+# HSECNT4:1
+# 
+# HSECNT5:0
+# HSECNT5:1
+# 
+# HSECNT6:0
+# HSECNT6:1
+# 
+# HSECNT7:0
+# HSECNT7:1
+# 
+# HSITRIM:3-bit trimming
+# HSITRIM:4-bit trimming
+# 
+# I2C:Frozen when stopped
+# I2C:Running
+# 
+# IWDG_HW:Software
+# IWDG_HW:Hardware
+# 
+# LSI_EN:Disabled
+# LSI_EN:Enabled
+# 
+# PRSC:16MHz to 128kHz
+# PRSC:
+# PRSC:8MHz to 128kHz
+# PRSC:4MHz to 128kHz
+# 
+# ROP:Read-out protection enabled
+# ROP:Read-out protection disabled
+# 
+# Timer1:Frozen when stopped
+# Timer1:Running
+# 
+# Timer2:Frozen when stopped
+# Timer2:Running
+# 
+# Timer4:Frozen when stopped
+# Timer4:Running
+# 
+# UBC:Write protection disabled
+# UBC:Write protected
+# 
+# WWDG_HALT:No Reset
+# WWDG_HALT:Reset
+# 
+# WWDG_HW:Software
+# WWDG_HW:Hardware
